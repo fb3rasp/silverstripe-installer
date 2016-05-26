@@ -1,0 +1,15 @@
+{
+  "name": "silverstripe-installer",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
